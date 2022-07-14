@@ -1,0 +1,23 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: slateblue;
+    color: whitesmoke;
+    text-align: center;
+}
+header h1  {
+    margin: 0;
+    line-height: 100px;
+}
+section {
+    width: 80%;
+    margin: 25px auto;
+    border-radius: 10px;
+    /* text-align: center; */
+    background-color: rgba(0,0,0,.1);
+    padding: 20px;
+    box-sizing: border-box;
+    
+}
